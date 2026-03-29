@@ -10,7 +10,7 @@ This project calculates student marks and grade.
 
 ## How to Run
 1. Open in VS Code
-2. Compile the program
+2. save the program
 3. Run the program
 4. Enter marks
 5. View output
